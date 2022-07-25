@@ -1,3 +1,3 @@
-<span style = "color:blue">**Hamberger-Game**</span>
+**Hamberger-Game**
 ---
 <Br>Mini Project
